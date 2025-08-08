@@ -1,0 +1,9 @@
+# mootdx和tdxpy的依赖包
+pandas>=1.0.0
+numpy>=1.18.0
+tenacity>=6.0.0
+click>=7.0
+prettytable>=2.0.0
+requests>=2.20.0
+urllib3>=1.25.0
+tqdm>=4.0.0
